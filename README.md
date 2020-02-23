@@ -21,7 +21,7 @@ The enviroCar App is licensed under the [GNU General Public License, Version 3](
 ## OBD simulator
 
 The repository also contains a simple OBD simulator (dumb, nothing fancy) that can
-be used on another Android device and mock the actual car adapter.
+be used on another Android device and mock the actual car adapter. "Just testing some stuff"
 
 ## Contributors
 
